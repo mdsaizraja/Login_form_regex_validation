@@ -1,0 +1,16 @@
+body {
+  background-color: honeydew;
+}
+
+.message {
+  margin-top: 20px;
+  font-size: 17px;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
